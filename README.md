@@ -1,2 +1,2 @@
 # Progess-Bar
-Step progress bar, CSS
+Simple progress bar through css.
